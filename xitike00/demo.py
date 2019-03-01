@@ -94,3 +94,8 @@ print(list1)
 '''
 
 # uniform() 随机获取指定范围内的值（包括小数）
+
+# ASCII码转数字
+print(ord('A'))
+# 数字转ASCII码
+print(chr(86))
